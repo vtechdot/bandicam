@@ -45,4 +45,4 @@ Bandicam (班迪录屏) 是一款功能强大且高效的屏幕录制软件，�
 
 ## **下载地址**
 
-[**Bandicam 8.3.1.2537 便携版**](https://raw.githubusercontent.com/vtechdot/bandicam/refs/heads/main/Bandicam.8.3.1.2537.Portable.7z)
+[**Bandicam 8.3.1.2537 便携版**](https://u.pcloud.link/publink/show?code=XZDe1HJZ749zkgCw0Fu05BMfJgCWmQXP2Q4V)
